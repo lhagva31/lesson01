@@ -1,0 +1,29 @@
+body{
+    font-family: Arial;
+    text-align: center;
+}
+header{
+    margin-bottom: 100px;
+}
+h1{
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 10px;
+    font-size: 18px;
+}
+.date{
+    font-size: 300%;
+    font-family: 'Times New Roman',Times, serif;
+}
+footer>p{
+    position: absolute;
+    bottom: 5px;
+    width: 100%;
+    margin: 0px;
+    padding: 1px;
+    color: whitesmoke;
+    font: 1em;
+    text-align: center;
+    background-color: rgba(1, 24, 31, 0.7);
+}
